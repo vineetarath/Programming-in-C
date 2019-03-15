@@ -1,0 +1,7 @@
+//struggle.c
+#include <stdio.h>
+int main()
+{
+    printf ("This shit is not easy.\nBut nothing worthwhile ever came easy.\n");
+    return 0;
+}
